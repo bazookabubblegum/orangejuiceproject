@@ -5,10 +5,6 @@ html *{
 	background-color:#000;
 }
 
-body *{
-	color:#FFF;
-	background-color:#000;
-	
 }
 .navbar{
 	background-color:#000;
@@ -26,4 +22,28 @@ body *{
 	display:inline-block;
 	font-size:16px;
 	font-family:Georgia;
+}
+
+img .open{
+	display:inline-block;
+	width:49%;
+}
+.menu{
+	width:49%;
+	vertical-align:top;
+	float:right;
+	padding-left:10px;
+
+}
+.menu li{
+	display:inline-block;
+	text-decoration:none;
+	width:25%;
+	line-height:5.6px;
+	font-size:15px;
+	margin:0 auto;
+	right:0px;
+}
+.opening p{
+	
 }
