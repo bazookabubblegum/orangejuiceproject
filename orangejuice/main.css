@@ -17,6 +17,8 @@ html *{
 	}
 }
 
+.fa { font-family: 'FontAwesome' !important; }
+
 .navbar{
 	width:100%;
 	background-color:#FD7F00;
@@ -68,6 +70,11 @@ html *{
 	padding:10px 5px;
 	color:#FFF;
 }
+
+hr{
+	color:#F36E07;
+	border:solid 4px;
+}
 .container{
 	display:block;
 	width:100%;
@@ -96,6 +103,7 @@ html *{
 	padding:20px 70px 20px 5px;
 	position:absolute;
 	right:90px;
+	color:#F2E5D9;
 }
 
 .mainmenu button{
